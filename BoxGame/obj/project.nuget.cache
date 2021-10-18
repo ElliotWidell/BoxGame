@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xTIMGG5h/GCmmY1t7hYYLHYdf/8mBPXuAO0uMZAi6tZOf5Zd2mZPOkUU6Ci0TaFuUl7I073gyo8rVTtF45n8Zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elliot.widell\\Desktop\\Programering\\BoxGame\\BoxGame\\BoxGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elliot.widell\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\elliot.widell\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
